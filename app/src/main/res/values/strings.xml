@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoAppC38Online</string>
+    <string name="add_todo">add todo</string>
+    <string name="enter_your_title">enter your title</string>
+    <string name="enter_your_task_description">enter your task description...</string>
+    <string name="select_time">select time :</string>
+    <string name="add">add</string>
+</resources>
